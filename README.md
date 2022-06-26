@@ -1,2 +1,1 @@
-# ICTAK-Website
- ICTAK-Website-MERN
+# ictak-website-mern
